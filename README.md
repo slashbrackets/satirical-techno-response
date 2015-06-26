@@ -1,2 +1,2 @@
 # satirical-techno-response
-Documents containing responses to technical issues with no details.
+Ways to respond to technical issues with no details with techno speak.
